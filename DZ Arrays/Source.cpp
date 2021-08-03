@@ -85,12 +85,7 @@ void main()
 	{
 		cout << brr[i] << tab;
 	}
-		/*buffer = brr[0];
-		for (int j = 0; j < n - 1; j++)
-		{
-			brr[j] = brr[j + 1];
-			brr[j] = buffer;
-		}brr[size - 1] = buffer;*/
+		
 	
 	
 }
